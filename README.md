@@ -1,4 +1,4 @@
-**CatBoost algorithm for transmission line faults detection and classification**
+**<h2>CatBoost algorithm for transmission line faults detection and classification</h2>**
 
  **Tanbir Rahman , Talab Hasan , and Arif Ahammad,***
   
@@ -17,14 +17,14 @@ tanbirr806@e-mail.com; talabhasan365@gmail.com; arif-eee@sust.edu;
 
 
  **Tools Used:** 
- *Matlab
- *Simulink
- *Python
- *Latex
- *Excel
- *Word
- *Anaconda(Jupyter Notebook)
- *Origin
+ * Matlab
+ * Simulink
+ * Python
+ * Latex
+ * Excel
+ * Word
+ * Anaconda(Jupyter Notebook)
+ * Origin
  
  
  **In short**
